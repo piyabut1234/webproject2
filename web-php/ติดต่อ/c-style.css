@@ -1,0 +1,27 @@
+.fotter {
+
+    position: relative;
+    top: 82px;
+    left: 475px;
+    color: var(--secdary);
+}
+
+.fotter h1 {
+
+    position: relative;
+    left: 360px;
+
+}
+
+.fotter a {
+
+    text-decoration: none;
+    color: var(--secdary);
+    
+}
+
+.fotter a :hover {
+
+    color: black;
+
+}
